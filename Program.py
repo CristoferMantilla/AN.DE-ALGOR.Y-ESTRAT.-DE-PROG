@@ -6,6 +6,8 @@ esVerde : bool = False
 
 print(f"{nom} {ape} tiene {edad} años y su carro {"es"if esVerde else "no es"} verde");
 
+print(f"su altura es {altura}")
+
 #operator ternario
 """
 es = edad > 18 ? "Mayor edad": "niño";
