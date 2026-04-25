@@ -13,3 +13,5 @@ print(f"su altura es {altura}")
 es = edad > 18 ? "Mayor edad": "niño";
 es = "Mayor edad" if edad > 18 else "niño"
 """
+print("hola mundo")
+print("hola mundo")
